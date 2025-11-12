@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.AssemblyInfo.cs
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\workshop 6\bin\Debug\net9.0\workshop 6.exe
+C:\Users\Student\Documents\workshop 6\bin\Debug\net9.0\workshop 6.deps.json
+C:\Users\Student\Documents\workshop 6\bin\Debug\net9.0\workshop 6.runtimeconfig.json
+C:\Users\Student\Documents\workshop 6\bin\Debug\net9.0\workshop 6.dll
+C:\Users\Student\Documents\workshop 6\bin\Debug\net9.0\workshop 6.pdb
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.dll
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\refint\workshop 6.dll
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.pdb
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\workshop 6.genruntimeconfig.cache
+C:\Users\Student\Documents\workshop 6\obj\Debug\net9.0\ref\workshop 6.dll

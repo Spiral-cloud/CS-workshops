@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\workshop4\workshop4\bin\Debug\net9.0\workshop4.exe
+C:\Users\Student\Documents\workshop4\workshop4\bin\Debug\net9.0\workshop4.deps.json
+C:\Users\Student\Documents\workshop4\workshop4\bin\Debug\net9.0\workshop4.runtimeconfig.json
+C:\Users\Student\Documents\workshop4\workshop4\bin\Debug\net9.0\workshop4.dll
+C:\Users\Student\Documents\workshop4\workshop4\bin\Debug\net9.0\workshop4.pdb
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.AssemblyInfo.cs
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.dll
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\refint\workshop4.dll
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.pdb
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\workshop4.genruntimeconfig.cache
+C:\Users\Student\Documents\workshop4\workshop4\obj\Debug\net9.0\ref\workshop4.dll

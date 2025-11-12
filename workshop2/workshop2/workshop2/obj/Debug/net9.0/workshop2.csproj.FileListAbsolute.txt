@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.AssemblyInfo.cs
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\workshop2\workshop2\bin\Debug\net9.0\workshop2.exe
+C:\Users\Student\Documents\workshop2\workshop2\bin\Debug\net9.0\workshop2.deps.json
+C:\Users\Student\Documents\workshop2\workshop2\bin\Debug\net9.0\workshop2.runtimeconfig.json
+C:\Users\Student\Documents\workshop2\workshop2\bin\Debug\net9.0\workshop2.dll
+C:\Users\Student\Documents\workshop2\workshop2\bin\Debug\net9.0\workshop2.pdb
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.dll
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\refint\workshop2.dll
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.pdb
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\workshop2.genruntimeconfig.cache
+C:\Users\Student\Documents\workshop2\workshop2\obj\Debug\net9.0\ref\workshop2.dll
